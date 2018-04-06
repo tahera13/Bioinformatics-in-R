@@ -38,3 +38,14 @@ http://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapte
 6. How many nucleotide sequences for collagen genes from nematode worms are there in the NCBI Database?
 7. How many mRNA sequences for collagen genes from nematode worms are there in the NCBI Database?
 
+## Pairwise sequence aligment
+Answers to exercises in sequence alignment
+http://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter4.html
+
+### Questions
+1. Download FASTA-format files of the Brugia malayi Vab-3 protein (UniProt accession A8PZ80) and the Loa loa Vab-3 protein (UniProt accession E1FTG0) sequences from UniProt.
+2. What is the alignment score for the optimal global alignment between the Brugia malayi Vab-3 protein and the Loa loa Vab-3 protein, when you use the BLOSUM50 scoring matrix, a gap opening penalty of -10 and a gap extension penalty of -0.5?
+3. Use the printPairwiseAlignment() function to view the optimal global alignment between Brugia malayi Vab-3 protein
+4. What global alignment score do you get for the two Vab-3 proteins, when you use the BLOSUM62 alignment matrix, a gap opening penalty of -10 and a gap extension penalty of -0.5?and the Loa loa Vab-3 protein, using the BLOSUM50 scoring matrix, a gap opening penalty of -10 and a gap extension penalty of -0.5.
+5. What is the statistical significance of the optimal global alignment for the Brugia malayi and Loa loa Vab-3 proteins made using the BLOSUM50 scoring matrix, with a gap opening penalty of -10 and a gap extension penalty of -0.5?
+6. What is the optimal global alignment score between the Brugia malayi Vab-6 protein and the Mycobacterium leprae chorismate lyase protein?
