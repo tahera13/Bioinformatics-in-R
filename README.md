@@ -25,3 +25,16 @@ http://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapte
 4. Write a function to draw a sliding window plot of AT content. Use it to make a sliding window plot of AT content along the Mycobacterium leprae TN genome, using a windowsize of 20000 nucleotides. Do you notice any relationship between the sliding window plot of GC content along the Mycobacterium leprae genome, and the sliding window plot of AT content?
 5.  Is the 3-nucleotide word GAC GC over-represented or under-represented in the Mycobacterium leprae TN genome sequence?
 
+## Sequence Databases
+Answers to exercises in Sequence Databases 
+http://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter3.html
+
+### Questions
+1. What information about the rabies virus sequence (NCBI accession NC_001542) can you obtain from its annotations in the NCBI Sequence Database?
+2. How many nucleotide sequences are there from the bacterium Chlamydia trachomatis in the NCBI Sequence Database?
+3. How many nucleotide sequences are there from the bacterium Chlamydia trachomatis in the RefSeq part of the NCBI Sequence Database?
+4. How many nucleotide sequences were submitted to NCBI by Matthew Berriman?
+5. How many nucleotide sequences from the nematode worms are there in the RefSeq Database?
+6. How many nucleotide sequences for collagen genes from nematode worms are there in the NCBI Database?
+7. How many mRNA sequences for collagen genes from nematode worms are there in the NCBI Database?
+
