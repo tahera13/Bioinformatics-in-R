@@ -49,3 +49,19 @@ http://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapte
 4. What global alignment score do you get for the two Vab-3 proteins, when you use the BLOSUM62 alignment matrix, a gap opening penalty of -10 and a gap extension penalty of -0.5?and the Loa loa Vab-3 protein, using the BLOSUM50 scoring matrix, a gap opening penalty of -10 and a gap extension penalty of -0.5.
 5. What is the statistical significance of the optimal global alignment for the Brugia malayi and Loa loa Vab-3 proteins made using the BLOSUM50 scoring matrix, with a gap opening penalty of -10 and a gap extension penalty of -0.5?
 6. What is the optimal global alignment score between the Brugia malayi Vab-6 protein and the Mycobacterium leprae chorismate lyase protein?
+
+## Gene finding
+Answers to exercises in gene finding
+http://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter7.html#exercises
+
+### Questions
+1. How many ORFs are there on the forward strand of the DEN-1 Dengue virus genome (NCBI accession NC_001477)?
+2. What are the coordinates of the rightmost (most 3’, or last) ORF in the forward strand of the DEN-1 Dengue virus genome?
+3. What is the predicted protein seuence for the rightmost (most 3’, or last) ORF in the forward strand of the DEN-1 Dengue virus genome?
+4. How many ORFs are there of 30 nucleotides or longer in the forward strand of the DEN-1 Dengue virus genome seuence?
+5. How many ORFs longer than 248 nucleotides are there in the forward strand of the DEN-1 Dengue genome seuence?
+7. How many ORFs are there on the forward strand of the rabies virus genome (NCBI accession NC_001542)?
+8. What is the length of the longest ORF among the 99% of longest ORFs in 10 random seuences of the same lengths and composition as the rabies virus genome seuence?
+9. How many ORFs are there in the rabies virus genome that are longer than the threshold length that you found in 8?
+
+
