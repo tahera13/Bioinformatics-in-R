@@ -74,9 +74,5 @@ http://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapte
 3. How many Mycobacterium ulcerans protein-coding genes have Mycobacterium leprae orthologues?
 4. How many of the Mycobacterium ulcerans protein-coding genes have one-to-one orthologues in Mycobacterium leprae?
 5. How many Mycobacterium ulcerans genes have Pfam domains?
-6. What are the top 5 most common Pfam domains in Mycobacterium ulcerans genes?
-7. How many copies of each of the top 5 domains found in 6 are there in the Mycobacterium ulcerans protein set?
-8. How many of copies are there in the Mycobacterium lepraae protein set, of each of the top 5 Mycobacterium ulcerans Pfam protein domains?
-9. Are the numbers of copies of some domains different in the two species?
-10. Of the differences found in 9, are any of the differencess statistically significant?
+
 
