@@ -64,4 +64,19 @@ http://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapte
 8. What is the length of the longest ORF among the 99% of longest ORFs in 10 random seuences of the same lengths and composition as the rabies virus genome seuence?
 9. How many ORFs are there in the rabies virus genome that are longer than the threshold length that you found in 8?
 
+## Comparitive genomics
+Answers to exercises in comparitive genomics 
+http://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter9.html
+
+### Questions
+1. How many Mycobacterium ulcerans genes are there in the current version of the Ensembl Bacteria database?
+2. How many of the Mycobacterium ulcerans Ensembl genes are protein-coding genes?
+3. How many Mycobacterium ulcerans protein-coding genes have Mycobacterium leprae orthologues?
+4. How many of the*Mycobacterium ulcerans* protein-coding genes have one-to-one orthologues in Mycobacterium leprae?
+5. How many Mycobacterium ulcerans genes have Pfam domains?
+6. What are the top 5 most common Pfam domains in Mycobacterium ulcerans genes?
+7. How many copies of each of the top 5 domains found in 6 are there in the Mycobacterium ulcerans protein set?
+8. How many of copies are there in the Mycobacterium lepraae protein set, of each of the top 5 Mycobacterium ulcerans Pfam protein domains?
+9. Are the numbers of copies of some domains different in the two species?
+10. Of the differences found in 9, are any of the differencess statistically significant?
 
