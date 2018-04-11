@@ -72,7 +72,7 @@ http://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapte
 1. How many Mycobacterium ulcerans genes are there in the current version of the Ensembl Bacteria database?
 2. How many of the Mycobacterium ulcerans Ensembl genes are protein-coding genes?
 3. How many Mycobacterium ulcerans protein-coding genes have Mycobacterium leprae orthologues?
-4. How many of the*Mycobacterium ulcerans* protein-coding genes have one-to-one orthologues in Mycobacterium leprae?
+4. How many of the Mycobacterium ulcerans protein-coding genes have one-to-one orthologues in Mycobacterium leprae?
 5. How many Mycobacterium ulcerans genes have Pfam domains?
 6. What are the top 5 most common Pfam domains in Mycobacterium ulcerans genes?
 7. How many copies of each of the top 5 domains found in 6 are there in the Mycobacterium ulcerans protein set?
